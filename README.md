@@ -1,0 +1,2 @@
+# basic-django-grappelli
+A sample project using basic django-grappelli.
